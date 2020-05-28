@@ -30,6 +30,8 @@ Ticker List.xlsx: It contains the list of ticker symbols we are interested in fo
 
 GoldPriceProjection (Jupyter Notebook): The Jupyter notebook contains the python codes for execution along with markdown that explain each areas of the code in technical detail
 
+Add a markdownversion of the notebook as well along with imagesas a part of visualization
+
 # Library list
 For data manipulation: numpy, pandas and datettime. 
 For visualization: plotly and matplotlib are used. 
