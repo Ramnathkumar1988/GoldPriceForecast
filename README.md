@@ -35,3 +35,6 @@ For data manipulation: numpy, pandas and datettime.
 For visualization: plotly and matplotlib are used. 
 For api calls: yahoofinancial and fredapi
 For Modelling: Pycaret - It is a open source machine learning library that makes modelling process efficient. The inovative library directly approches the problems involving modeling and commands highly on ease of use and speed of processing.  
+
+# Link to the Blog post
+https://medium.com/@ramnathkumar8/will-gold-still-glitter-using-python-based-machine-learning-to-forecast-gold-returns-b4197fdab7e9
